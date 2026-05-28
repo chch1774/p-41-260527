@@ -1,5 +1,4 @@
 spring:
-
   data:
     redis:
       host: redis_1
